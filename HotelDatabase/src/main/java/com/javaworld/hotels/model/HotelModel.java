@@ -8,7 +8,7 @@
 // Version : $ID$
 // Copyright (c) 2005
 ////////////////////////////////////////////////////////////////////////////////
-
+// a stupid comment
 package com.javaworld.hotels.model;
 
 import java.util.ArrayList;
